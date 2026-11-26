@@ -1,7 +1,7 @@
 # Assignment 5 Part A: Persistence Design & Algorithmic Pseudocode
 
-**Student Name:** Moksha Dude (dudemoksha)  
-**Register Number:** 192372374  
+**Student Name:** A.PRAVEEN KUMAR  
+**Register Number:** 192425168
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO5  
 
