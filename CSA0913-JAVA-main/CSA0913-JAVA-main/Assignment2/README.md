@@ -1,7 +1,7 @@
 # Assignment 2 – CO2: Strings, Collections Framework, Generics & Comparators
 
-**Student Name:** S.MD.IRFAN
-**Register Number:** 192373001
+**Student Name:**A.PRAVEEN KUMAR
+**Register Number:** 192425168
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO2  
 **Java Version:** OpenJDK 17.0.21.0.2 LTS  
