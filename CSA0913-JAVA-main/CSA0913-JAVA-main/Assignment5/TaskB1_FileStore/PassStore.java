@@ -8,11 +8,7 @@ import java.nio.file.Path;
 import java.nio.file.StandardOpenOption;
 import java.util.Arrays;
 
-/**
- * Task B1 - Implement and Instrument the File Store
- * Complete the Code: PassStore.java
- * Student: Moksha Dude (192372374)
- */
+
 public class PassStore {
     private final Path file;
 
