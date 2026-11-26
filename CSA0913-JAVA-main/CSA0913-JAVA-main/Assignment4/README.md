@@ -1,7 +1,7 @@
 # Assignment 4 – CO4: Event-Driven GUI Design
 
-**Student Name:** S.MD.IRFAN
-**Register Number:** 192373001
+**Student Name:** A.PRAVEEN KUMAR
+**Register Number:** 192425168
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO4  
 **Java Version:** OpenJDK 17.0.21.0.2 LTS  
