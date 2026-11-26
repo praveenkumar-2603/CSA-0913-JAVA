@@ -1,7 +1,7 @@
 # Assignment 3 – CO3: Exception Handling & Multithreading
 
-**Student Name:** S.MD.IRFAN
-**Register Number:** 192373001
+**Student Name:** A.PRAVEEEN KUMAR
+**Register Number:** 192425168
 **Course:** Programming in Java (CSA09)  
 **Course Outcome:** CO3  
 **Java Version:** OpenJDK 17.0.21.0.2 LTS  
