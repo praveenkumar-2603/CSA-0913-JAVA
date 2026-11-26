@@ -6,10 +6,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Task B3 - Statement vs PreparedStatement vs Batch Loading & Transaction Safety
- * Complete the Code: PassLoader.java
- * Student: Moksha Dude (192372374)
+
  */
 public class PassLoader {
 
