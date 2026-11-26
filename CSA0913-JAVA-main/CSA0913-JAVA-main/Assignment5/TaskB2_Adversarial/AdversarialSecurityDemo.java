@@ -3,10 +3,7 @@ package TaskB2_Adversarial;
 import java.sql.*;
 import java.util.Arrays;
 
-/**
- * Task B2 - Engineer an Adversarial Input: SQL Injection & Corrupt File Payloads
- * Student: Moksha Dude (192372374)
- */
+
 public class AdversarialSecurityDemo {
 
     // 1. Unsafe Concatenation Login Verification
